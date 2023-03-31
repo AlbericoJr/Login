@@ -24,6 +24,19 @@ main{
   height: 100vh;
 }
 
+section#login{
+  position:relative;
+  top: 50%;
+  left: 50%;
+  
+  background-color: white;
+  width: 35rem;
+  height: 47rem;
+  border-radius: .8rem;
+
+  transform: translate(-50%, -50%);
+}
+
 section.heit{
   position:relative;
   top: 50%;
